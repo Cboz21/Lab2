@@ -49,7 +49,7 @@ staff_long <- staff %>%
 
 ### Exercise 3
 
-*Remove this text and add your answer here.*
+*Remove this text and add r answer here.*
 
 ```{r staff-long-inspect}
 # remove this comment and add your code here
